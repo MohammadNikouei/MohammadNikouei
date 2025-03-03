@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on corporate projects
-- 📫 How to reach me Instagram: mr.triple.m
+- 📫 How to reach me Instagram: mr.tripl3.m
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.triple.m) 
